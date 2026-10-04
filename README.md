@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sulfuric-dev
+- 👋 Hi, I’m Sulfuric
 - 👀 I’m interested in code
 - 🌱 I’m currently learning C++ and Python
 - 📫 How to reach me:
-- Discord: sulfuricto
+- Discord: sulfuricdev
 - Mail: lolnobngu2@gmail.com
 
 <!---
